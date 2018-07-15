@@ -1,0 +1,8 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "example project",
+  "main": "index.js",
+  "author": "Bhairavee",
+  "license": "MIT"
+}
